@@ -1,0 +1,105 @@
+/* ini css */
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #f8f2f5;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.logo {
+    font-family: fantasy;
+    color: #ef3807;
+    font-size: 35px ;
+    align-content: center;
+}
+
+.tombol {
+    background-color: #ef3807;
+    padding: 20px;
+    border: 1px ;
+    border-radius: 15px;
+}
+
+#home {
+    margin-right: 10px;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: beige;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#gallery {
+    border: 1px solid;
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background: beige;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#contact-us {
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    background: beige;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#main-text {
+    letter-spacing: -.0775em;
+    line-height: .8;
+    font-size: 65px;
+    font-family: math;
+    text-align: center;
+    -webkit-text-fill-color: #590a09;
+    margin-bottom: 0px;
+    margin-top: 25px
+}
+
+#comentar {
+    text-align: center;
+    font-size: 17px;
+    margin: 5px;
+    font-family: sans-serif;
+}
+
+.main-contect {
+    display: flex;
+    margin-top: 15px;
+}
+
+.focus-contect {
+    border: 1px solid;
+    width: 100%;
+    height: 250px;
+}
+
+.profil-informationn {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+ #nama {
+    margin-bottom: 0px;
+ }
+
+ #pekerjaan-umur {
+    margin: 0px;
+}
+
+.form {
+    border: 1px solid;
+    width: 100%;
+    height: 250px;
+}
